@@ -20,6 +20,26 @@
 
 </br>
 
+## :camera: 실행 화면
+
+#### 초기화면
+
+<img width="200" alt="web1" src="https://github.com/Weseunghyun/Pomodoro/assets/127702076/52469653-4be1-4213-b4b8-b7b9ea557af3">
+
+#### 메인 뽀모도로 타이머 화면
+
+<img width="200" alt="image" src="https://github.com/Weseunghyun/Pomodoro/assets/127702076/e3a95707-a10c-4905-826e-71d6a67908d8">
+
+#### 학습 세션 화면
+
+<img width="200" alt="image" src="https://github.com/Weseunghyun/Pomodoro/assets/127702076/8249f43b-f18d-4c84-915c-32a3bd6c5c5a">
+<img width="200" alt="image" src="https://github.com/Weseunghyun/Pomodoro/assets/127702076/21b505ba-0077-4999-8b8d-46697c0c12db">
+
+#### 학습 통계 화면
+<img width="200" alt="image" src="https://github.com/Weseunghyun/Pomodoro/assets/127702076/7ed6d042-603d-4fdc-9ce6-3338357a286a">
+
+</br>
+
 ## :scroll: 핵심 설명문
 
 이 앱은 SwiftUI와 Firebase를 사용하여 사용자가 로그인하거나 계정을 생성하고, 뽀모도로 타이머를 통해 학습 세션을 관리하며, 통계 데이터를 시각화할 수 있는 기능을 제공합니다.
